@@ -1,0 +1,10 @@
+(tcp, @src, portsrc, @dest_ portdest
+socket ((AF_INET, SOCK_STREAM/SOCK_,IPPROTO_TCP
+
+bind => connextion au tpc 80
+
+struct in_adrr
+
+struct sockaddr_in
+
+sin_port = htons (80)

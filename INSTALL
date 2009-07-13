@@ -1,0 +1,14 @@
+========= INSTALLATION
+
+Souces can be downloaded from http://springbok.akakoo.net
+
+Unpack the archive
+
+ $ tar zxvf springbok-xxxx.tar.gz
+
+Compile and install from the sources
+ 
+ $ cd springbok-xxxx
+ $ make && make install
+
+========= BYE BYE
